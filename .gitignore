@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+
+data/raw/
+data/processed/
+*.fits
+*.h5
+*.log
+
+grahsp_XID_*_var0/
+
+.ipynb_checkpoints/
+.DS_Store
+.env
