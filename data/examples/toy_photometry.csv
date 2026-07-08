@@ -1,0 +1,4 @@
+sed_id,zsp,NIRCam_F150W,NIRCam_F150W_unc,NIRCam_F277W,NIRCam_F277W_unc,NIRCam_F444W,NIRCam_F444W_unc,MIRI_F770W,MIRI_F770W_unc,HSC_i_flux,HSC_i_err
+101,1.25,1.2e-5,1.0e-6,2.4e-5,2.0e-6,3.5e-5,3.0e-6,6.2e-5,7.0e-6,8.5e-6,9.0e-7
+102,0.87,9.0e-6,8.0e-7,1.8e-5,1.6e-6,2.9e-5,2.5e-6,5.1e-5,6.0e-6,7.2e-6,8.0e-7
+103,1.63,1.5e-5,1.2e-6,2.7e-5,2.1e-6,4.1e-5,3.4e-6,7.5e-5,8.0e-6,1.0e-5,1.0e-6
